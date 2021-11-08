@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LamaSaeed
 - 👀 I’m interested in Devloper App & web
 - 🌱 I’m currently learning SwiftUI 
-- 💞️ I’m looking to collaborate on CREATIVE PEPOLE
+- 💞️ I’m looking to collaborate on CREATIVE People
 - 📫 How to reach me Twitter: @lmiico
 
 <!---
