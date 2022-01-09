@@ -1,10 +1,11 @@
-## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I’m @LamaSaeed
 - 👀 I’m interested in Devloper App & web
 - 🌱 I’m currently learning SwiftUI and Data S
 - 💞️ I’m looking to collaborate on CREATIVE People
-- 📫 How to reach me Twitter: <a href="https://twitter.com/lmiico"> <img align="left" alt="لمى سعيد " width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+- 📫 How to reach me Twitter: 
+<a href="https://twitter.com/lmiico">  @Lmiico <img align="left" alt="لمى سعيد " width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
   
